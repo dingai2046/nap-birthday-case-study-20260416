@@ -58,10 +58,16 @@
   口播："Little Lucy explored the wild jungle!"
 - 8-12s：产品展示 — 场景切换盘 + 价格
   口播："You can do ANY of this — starting from just 299 Australian Dollars!"
-- 12-15s：CTA
-  口播："Send us ONE photo. We'll create the whole world. Order now!"
+- 12-15s：CTA（含实体贺卡介绍）
+  口播："Send us ONE photo. We'll create the whole world — and mail you a real greeting card with Nick and his animal friends, plus YOUR personal birthday message. Order now!"
+  画面：展示一张实体贺卡样本，上面有 Nick 和 Koko & Roobin 的合照，旁边是手写祝福语
 
 ---
+
+## 产品亮点（核心卖点）
+1. **任何主题**：水下、太空、城堡、恐龙、丛林...只要你想得到
+2. **实体贺卡**：每份订单附赠实体贺卡，含 Nick & Koko & Roobin 合照 + 你的亲笔祝福
+3. **价格**：299 Australian Dollars 起
 
 ## 制作 SOP
 1. 用 Dreamina text2image 生成 5 个案例场景图（scenes/）
